@@ -1,0 +1,14 @@
+*.bak
+*.old
+*.mo
+*.suo
+*.ncb
+*.user
+*.log
+*.csv
+*.schdocpreview
+*.pcbdocpreview
+*.uvoptx
+*.Joy
+mcu_board/history
+power_board/history
