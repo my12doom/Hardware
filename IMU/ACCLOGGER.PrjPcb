@@ -275,13 +275,13 @@ GenerateClassCluster=0
 DocumentUniqueId=KMIFPNPQ
 
 [Document15]
-DocumentPath=MCU.SchDoc
+DocumentPath=IMU_ACC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -289,10 +289,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IOFKOYDY
+DocumentUniqueId=KVAPIEHQ
 
 [Document16]
-DocumentPath=IMU.PcbDoc
+DocumentPath=ACCLOGGER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -309,13 +309,13 @@ GenerateClassCluster=0
 DocumentUniqueId=VWGKMHAN
 
 [Document17]
-DocumentPath=ADC.SchDoc
+DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -323,26 +323,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IMSCTIFB
+DocumentUniqueId=IOFKOYDY
 
 [Document18]
-DocumentPath=IMU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HITYECFG
-
-[Document19]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
