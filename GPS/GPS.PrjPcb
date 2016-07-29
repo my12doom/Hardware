@@ -139,6 +139,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VLAFGPGG
 
 [Document7]
+DocumentPath=..\library\UBX-M8030-KT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QMEWHLQN
+
+[Document8]
 DocumentPath=..\library\TO-252-2L_C27630.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTKACVWN
 
-[Document8]
+[Document9]
 DocumentPath=..\library\SOIC8_39MM_C6952.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +189,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EAKJKBNG
 
-[Document9]
+[Document10]
+DocumentPath=..\library\LC-SOD-323.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FKVPPWWW
+
+[Document11]
 DocumentPath=..\library\SMA_DO-214AC_C15874.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWECDRRS
 
-[Document10]
+[Document12]
 DocumentPath=..\library\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTIQQHUU
 
-[Document11]
+[Document13]
+DocumentPath=..\library\UBX-M8030-KT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KTRJIGEJ
+
+[Document14]
 DocumentPath=..\library\mcu_board.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXKEBBKQ
 
-[Document12]
+[Document15]
 DocumentPath=..\library\sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRTATOUK
 
-[Document13]
+[Document16]
 DocumentPath=..\library\CSD87352Q5D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHYOBUCX
 
-[Document14]
+[Document17]
 DocumentPath=..\library\CSD87352Q5D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,6 +325,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMIFPNPQ
 
+[Document18]
+DocumentPath=M8030.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FPUDPHAD
+
+[Document19]
+DocumentPath=M8030.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YDRFNDEU
+
+[Document20]
+DocumentPath=..\library\GNSS_Parts.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DVBJVKTJ
+
+[Document21]
+DocumentPath=..\library\GNSS_Parts.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBXYARKD
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -287,7 +406,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -319,106 +438,11 @@ OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=CadnetixNetlist
-OutputName7=Cadnetix Netlist
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=CalayNetlist
-OutputName8=Calay Netlist
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=EDIF
-OutputName9=EDIF for PCB
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=EESofNetlist
-OutputName10=EESof Netlist
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=IntergraphNetlist
-OutputName11=Intergraph Netlist
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=MentorBoardStationNetlist
-OutputName12=Mentor BoardStation Netlist
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=MultiWire
-OutputName13=MultiWire
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=OrCadPCB2Netlist
-OutputName14=Orcad/PCB2 Netlist
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=PADSNetlist
-OutputName15=PADS ASCII Netlist
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Pcad
-OutputName16=Pcad for PCB
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=PCADnltNetlist
-OutputName17=PCADnlt Netlist
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=Protel2Netlist
-OutputName18=Protel2 Netlist
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=ProtelNetlist
-OutputName19=Protel
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=RacalNetlist
-OutputName20=Racal Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-OutputType21=RINFNetlist
-OutputName21=RINF Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SciCardsNetlist
-OutputName22=SciCards Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=TangoNetlist
-OutputName23=Tango Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-OutputType24=TelesisNetlist
-OutputName24=Telesis Netlist
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-OutputType25=WireListNetlist
-OutputName25=WireList Netlist
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -549,7 +573,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Test Points For Assembly
 OutputName1=Test Point Report
@@ -611,7 +635,7 @@ Configuration3_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -673,7 +697,7 @@ OutputDefault10=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -724,7 +748,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -904,7 +928,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -938,7 +962,7 @@ OutputDefault5=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HPA65BDW (HP Officejet 7610 series)
+TargetPrinter=HP Officejet 7610 series (利大)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
