@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\library\ST Microcontroller 32-Bit STM32 PCB.lib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OMOPVWVD
+
+[Document2]
 DocumentPath=..\library\advsensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJNDWRMJ
 
-[Document2]
+[Document3]
 DocumentPath=..\library\advsensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBJLLDHL
 
-[Document3]
+[Document4]
 DocumentPath=..\library\GDRH127_C10149.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKJNMLDM
 
-[Document4]
+[Document5]
 DocumentPath=..\library\SMC_DO-214AB_C24138.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPFNXBHM
 
-[Document5]
+[Document6]
 DocumentPath=..\library\mcu.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIDNQMKK
 
-[Document6]
+[Document7]
 DocumentPath=..\library\SOT-23-6L_C14123.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLAFGPGG
 
-[Document7]
+[Document8]
 DocumentPath=..\library\TO-252-2L_C27630.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTKACVWN
 
-[Document8]
+[Document9]
 DocumentPath=..\library\SOIC8_39MM_C6952.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EAKJKBNG
 
-[Document9]
+[Document10]
 DocumentPath=..\library\SMA_DO-214AC_C15874.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWECDRRS
 
-[Document10]
+[Document11]
 DocumentPath=..\library\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTIQQHUU
 
-[Document11]
+[Document12]
 DocumentPath=..\library\mcu_board.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXKEBBKQ
 
-[Document12]
+[Document13]
 DocumentPath=..\library\sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRTATOUK
 
-[Document13]
+[Document14]
 DocumentPath=..\library\CSD87352Q5D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHYOBUCX
 
-[Document14]
+[Document15]
 DocumentPath=..\library\CSD87352Q5D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,14 +291,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMIFPNPQ
 
-[Document15]
-DocumentPath=IMU_ACC.SchDoc
+[Document16]
+DocumentPath=lite.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -289,10 +306,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KVAPIEHQ
+DocumentUniqueId=HDKCHWNW
 
-[Document16]
-DocumentPath=ACCLOGGER.PcbDoc
+[Document17]
+DocumentPath=lite.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,24 +323,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VWGKMHAN
-
-[Document17]
-DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IOFKOYDY
+DocumentUniqueId=ASJIMLYU
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ACCLOGGER\Design Rule Check - ACCLOGGER.html
