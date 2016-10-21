@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\library\sch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GRTATOUK
+
+[Document2]
 DocumentPath=..\library\PcbLib2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEIYWSWA
 
-[Document2]
+[Document3]
 DocumentPath=..\library\pcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAOTKMIV
 
-[Document3]
+[Document4]
 DocumentPath=..\library\mcu.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIDNQMKK
 
-[Document4]
+[Document5]
 DocumentPath=..\library\ST Microcontroller 32-Bit STM32 PCB.lib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,9 +119,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ILIPJROG
+DocumentUniqueId=GJWDPAIQ
 
-[Document5]
+[Document6]
 DocumentPath=..\library\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTIQQHUU
 
-[Document6]
+[Document7]
 DocumentPath=sonar_rx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWBGTRML
 
-[Document7]
+[Document8]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPYBDULB
 
-[Document8]
+[Document9]
 DocumentPath=sonar_tx.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJAJSVVR
 
-[Document9]
+[Document10]
 DocumentPath=sonar_test.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
