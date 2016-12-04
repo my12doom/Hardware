@@ -393,6 +393,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEOMFVCB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for rk3288_backend\Design Rule Check - rk3288_backend.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
