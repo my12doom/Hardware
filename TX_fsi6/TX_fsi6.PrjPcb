@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QASCTHJL
 
 [Document4]
 DocumentPath=TX_fsi6.PcbLib
@@ -102,7 +102,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LNVECJGJ
+DocumentUniqueId=XNDRAXOK
 
 [Document5]
 DocumentPath=TX_fsi6.SchDoc
@@ -136,9 +136,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CRABWJWI
+DocumentUniqueId=WEAJDBGL
 
 [Document7]
+DocumentPath=..\library\pcblib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BAOTKMIV
+
+[Document8]
 DocumentPath=..\library\mcu.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIDNQMKK
 
-[Document8]
+[Document9]
+DocumentPath=..\library\sch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GRTATOUK
+
+[Document10]
 DocumentPath=..\library\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTIQQHUU
 
-[Document9]
+[Document11]
 DocumentPath=..\library\USB_TYPE_A_SOCKET.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AILMUSDT
 
-[Document10]
+[Document12]
 DocumentPath=..\library\USB_TYPE_A_SOCKET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCIGNNHR
 
-[Document11]
+[Document13]
 DocumentPath=BQ24295.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODUQOJEX
 
-[Document12]
+[Document14]
 DocumentPath=..\library\BQ24295.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITIKMVKS
 
-[Document13]
+[Document15]
 DocumentPath=..\library\BQ24295.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
