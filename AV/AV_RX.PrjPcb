@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\library\PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=RTC6705.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOBLUCIM
 
-[Document2]
+[Document3]
 DocumentPath=RTC6705.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIAIMGVJ
 
-[Document3]
+[Document4]
 DocumentPath=pcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,8 +104,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPQMVSEX
 
-[Document4]
-DocumentPath=..\..\Users\Public\Documents\Altium\RX.SchDoc
+[Document5]
+DocumentPath=RX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,8 +121,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNWLJTXB
 
-[Document5]
-DocumentPath=..\..\Users\Public\Documents\Altium\RX.PcbDoc
+[Document6]
+DocumentPath=RX.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,6 +140,10 @@ DocumentUniqueId=UAURBGUK
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for AV\Design Rule Check - pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AV_RX\Design Rule Check - RX.html
 DItemRevisionGUID=
 
 [Configuration1]
