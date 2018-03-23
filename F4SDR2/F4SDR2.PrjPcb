@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\library\STMicroelectronics STM32 F4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DODRHTHE
+
+[Document2]
 DocumentPath=..\library\AD936X.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPMLQQOT
 
-[Document2]
+[Document3]
 DocumentPath=..\library\mcu.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document4]
 DocumentPath=..\library\WifiGain.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNLTCVDM
 
-[Document4]
+[Document5]
 DocumentPath=..\library\LC-SMC(DO-214AB).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEXMWYBO
 
-[Document5]
+[Document6]
 DocumentPath=..\library\AD936X.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KYODHKWY
 
-[Document6]
+[Document7]
+DocumentPath=..\library\STMicroelectronics STM32 F4.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KVPQGCIE
+
+[Document8]
 DocumentPath=..\library\advsensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document9]
 DocumentPath=..\library\Xilinx Spartan-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,9 +187,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KRITSIJW
+DocumentUniqueId=FHOTNAOK
 
-[Document8]
+[Document10]
+DocumentPath=..\library\ST Microcontroller 32-Bit STM32 PCB.lib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RUPKQOEL
+
+[Document11]
 DocumentPath=..\library\LC-SMB(DO-214AA).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRLDDQQC
 
-[Document9]
+[Document12]
 DocumentPath=..\library\Xilinx Spartan-6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKMLATJV
 
-[Document10]
+[Document13]
 DocumentPath=..\library\pcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAOTKMIV
 
-[Document11]
+[Document14]
 DocumentPath=..\library\PcbLib2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEIYWSWA
 
-[Document12]
+[Document15]
 DocumentPath=..\library\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTIQQHUU
 
-[Document13]
+[Document16]
 DocumentPath=..\library\BK5811.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVKMBMJR
 
-[Document14]
+[Document17]
 DocumentPath=..\library\NRF24L01_PA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JESCFOUY
 
-[Document15]
+[Document18]
 DocumentPath=..\wing2\sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRTATOUK
 
-[Document16]
+[Document19]
 DocumentPath=..\library\F4SDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGKTDJUN
 
-[Document17]
+[Document20]
 DocumentPath=..\library\F4SDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,9 +376,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRBBHRYN
 
-[Document18]
+[Document21]
 DocumentPath=blocks.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -342,9 +393,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHKNHBGL
 
-[Document19]
+[Document22]
 DocumentPath=power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -359,26 +410,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYOTEMYD
 
-[Document20]
-DocumentPath=mcu.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QNCEXAGY
-
-[Document21]
+[Document23]
 DocumentPath=USB_HS_PHY.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -393,9 +427,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUXAKYGB
 
-[Document22]
+[Document24]
 DocumentPath=AD936X.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -410,9 +444,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGYBANIX
 
-[Document23]
+[Document25]
+DocumentPath=mcu2.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RDWLWEYY
+
+[Document26]
 DocumentPath=Balun&Matching.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -427,9 +478,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJVXVFEQ
 
-[Document24]
+[Document27]
 DocumentPath=FPGA_IO_MCU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -444,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJLOAIRL
 
-[Document25]
+[Document28]
 DocumentPath=FPGA_Configuration_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,9 +512,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMHPHXWT
 
-[Document26]
+[Document29]
 DocumentPath=FPGA_IO_Transceiver.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -478,9 +529,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIIESFSN
 
-[Document27]
+[Document30]
 DocumentPath=camera.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -494,6 +545,61 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIHQWDWO
+
+[Document31]
+DocumentPath=AD936X.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
+DocumentPath=FPGA_IO_Transceiver.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=F4SDR2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MTDIQXAO
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for F4SDR2\Design Rule Check - F4SDR2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -515,28 +621,28 @@ OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=XSpiceNetlist
-OutputName2=XSpice Netlist
+OutputType2=Verilog
+OutputName2=Verilog File
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMetrixNetlist
-OutputName3=SIMetrix
+OutputType3=VHDL
+OutputName3=VHDL File
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=SIMPLISNetlist
-OutputName4=SIMPLIS
+OutputType4=SIMetrixNetlist
+OutputName4=SIMetrix
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=Verilog
-OutputName5=Verilog File
+OutputType5=SIMPLISNetlist
+OutputName5=SIMPLIS
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=VHDL
-OutputName6=VHDL File
+OutputType6=XSpiceNetlist
+OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
