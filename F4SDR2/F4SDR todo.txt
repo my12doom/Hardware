@@ -1,0 +1,11 @@
+1 vias too near to SMA pad
+2 wrong VDD_GPO voltage
+3 seperate fingers for VDDA, see ad9363 reference manual P105 & P106
+4 VDDA plane
+5 VDDA LDO & TCXO relocate, TCXO new LDO
+6 wrong RF port: use RX1A/RX2A
+7 power plane & ground plane
+8 use USB3320 (lower power)
+9 ad9361 reset pin, fpga erase pin
+10 wrong fpga LED resistor
+11 reverse camera connector
